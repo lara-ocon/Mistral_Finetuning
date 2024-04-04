@@ -1,0 +1,6 @@
+instruction,output
+"Summarize this text: 'The quick brown fox jumps over the lazy dog.'","A quick brown fox jumps over a lazy dog."
+"Translate this sentence to French: 'Hello, how are you?'","Bonjour, comment ça va?"
+"Write a Python function to add two numbers.","def add_numbers(a, b):\n    return a + b"
+"Provide a synonym for the word 'quick'.","fast"
+"Convert this sentence to passive voice: 'The cat chased the mouse.'","The mouse was chased by the cat."
